@@ -20,6 +20,7 @@ Add-PnPContentType -Name <String> [-ContentTypeId <String>] [-Description <Strin
 ```
 
 ## DESCRIPTION
+Adds a new content type to the site. To create a content type in themodern Content Type Gallery, first connect to the content type hub site for the tenant.
 
 ## EXAMPLES
 
